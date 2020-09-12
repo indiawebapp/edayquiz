@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <!--https://www.bootstrapcdn.com/bootswatch/-->
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/cerulean/bootstrap.min.css" integrity="sha384-3fdgwJw17Bi87e1QQ4fsLn4rUFqWw//KU0g8TvV6quvahISRewev6/EocKNuJmEw" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+    <title> Quiz</title>
+</head>
+<body>
+    <div class="container">
+    <h3 Id='PageHeading'>India Web App</h3>
+    <div class="jumbotron">
+
+        <h1 Id='Intro' class="col-form-label" for="inputDefault">Hi! Welcome to Environment Day Quiz</h1>
+            <h5 id='secondCaption'>Please enter your name and click Next to begin</h5>
+            <input type="text" class="form-control" placeholder="Type your name" id="inputDefault">
+            
+        <p id="QuesNo">-1</p>
+        <p Id='Ques'>What is the capital on India?</p>
+        <div class="btn-group-vertical">
+            <button id='Option1' name="radio" type="button" class="btn btn-primary btn-sm btn-block">Mumbai is a great city</button><br>
+            <button id='Option2' name="radio" type="button" class="btn btn-primary btn-sm btn-block">Bangalore</button><br>
+            <button id='Option3' name="radio" type="button" class="btn btn-primary btn-sm btn-block">Kolkata</button><br>
+            <button id='Option4' name="radio" type="button" class="btn btn-primary btn-sm btn-block">New Delhi</button>
+        </div>
+        <div Id='Announcement'></div>
+
+
+
+
+
+
+             <p id="Ans" name='NotAttempted'></p>
+             
+        
+
+        <hr class="my-4">
+        
+        <div class='Navigation'>
+            <button class='btn btn-info' id="BtnPrevious">Previous</button>
+            <a id="rightAns"></a>
+            <button class='btn btn-success' id='BtnNext'>Next</button>
+            <button class='btn btn-warning' id='BtnStart'>Start</button>
+            <button class='btn btn-success' id='BtnFinish'>Finish</button>
+            <button class='btn btn-info' id="BtnReset">Reset</button>
+        </div>
+    <br>
+
+    </div>
+    <h5 id="Score">Score card</h5>
+    
+
+    <div class="score-pad">
+    <ul class="list-group">
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+          Correct Answer
+          <span Id="CorrectAns" class="badge badge-primary badge-pill">0</span>
+        </li>
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+          In-Correct Answer
+          <span Id="WrongAns" class="badge badge-primary badge-pill">0</span>
+        </li>
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+          Not Attempted
+          <span Id='NotAttempted' class="badge badge-primary badge-pill">0</span>
+        </li>
+      </ul>
+    </div>
+    <p class="Legal"><b>Note:</b> Privacy is paramount. This WebApp does not capture any data from your mobile or laptop. For any comments or feedback please write to <a href = "mailto: indiawebapp@gmail.com">indiawebapp@gmail.com</a></p>
+    </div>
+
+<!--Optional JavaScript-->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<!--Local JavaScript-->
+<script src="app.js"></script>
+</body>
+</html>

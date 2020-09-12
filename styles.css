@@ -1,0 +1,79 @@
+.jumbotron{
+    margin-bottom: 5px;
+    padding-top: 20px;
+    background-color:#C8E6C9;
+}
+
+#Intro{
+    color: green;
+}
+
+.col-form-label{
+    font-weight: bold;
+    font-size:xx-large;
+}
+
+#Scorecard{
+    position:fixed;
+    background-color: darkcyan;
+}
+
+#Ques{
+    font-weight: bold;
+    font-size: large;
+}
+.btn-group {
+    width: 100%;
+}
+
+.btn-group .btn {
+    display: block;
+    width:50% 
+}
+
+/*#Ans{
+    display: none;
+}*/
+
+
+
+#BtnPrevious{
+    float: left;
+    width: 100px;
+}
+
+#BtnNext{
+    float: right;
+    width:100px;
+    
+}
+
+#BtnStart{
+    float: right;
+    width:100px; 
+}
+
+#BtnFinish{
+    float: right;
+     width:100px; 
+}
+
+#BtnReset{
+    margin-left: auto;
+    margin-right: auto;;
+    width:100px; 
+}
+
+
+
+#Announcement{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.Legal{
+    font-size: small;
+}
