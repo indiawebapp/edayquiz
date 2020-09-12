@@ -68,10 +68,10 @@ async function GetData(Ques_No){
     document.getElementById('Option2').style.display='block';
     document.getElementById('Option3').style.display='block';
     document.getElementById('Option4').style.display='block';
-    document.getElementById('Option1').className="btn btn-primary btn-sm btn-block";
-    document.getElementById('Option2').className="btn btn-primary btn-sm btn-block";
-    document.getElementById('Option3').className="btn btn-primary btn-sm btn-block";
-    document.getElementById('Option4').className="btn btn-primary btn-sm btn-block";
+    document.getElementById('Option1').className="btn btn-success btn-sm btn-block";
+    document.getElementById('Option2').className="btn btn-success btn-sm btn-block";
+    document.getElementById('Option3').className="btn btn-success btn-sm btn-block";
+    document.getElementById('Option4').className="btn btn-success btn-sm btn-block";
     document.getElementById('rightAns').textContent='';
     document.getElementById('BtnStart').style.display='none';
     document.getElementById('BtnPrevious').style.display='none';
@@ -176,7 +176,7 @@ document.getElementById('Option3').addEventListener('click',callCheckOption3);
 document.getElementById('Option4').addEventListener('click',callCheckOption4);
 
 function callCheckOption1(){
-    if(document.getElementById('Option1').className=="btn btn-primary btn-sm btn-block"){
+    if(document.getElementById('Option1').className=="btn btn-success btn-sm btn-block"){
    
     var myAns=document.getElementById('Option1').innerHTML;
     document.getElementById('Announcement').style.display='Block';
@@ -206,7 +206,7 @@ function callCheckOption1(){
 
 function callCheckOption2(){
 
-    if(document.getElementById('Option2').className=="btn btn-primary btn-sm btn-block"){
+    if(document.getElementById('Option2').className=="btn btn-success btn-sm btn-block"){
     var myAns=document.getElementById('Option2').innerHTML;
     document.getElementById('Announcement').style.display='Block';
 
@@ -231,7 +231,7 @@ function callCheckOption2(){
 
 function callCheckOption3(){
 
-    if(document.getElementById('Option3').className=="btn btn-primary btn-sm btn-block"){
+    if(document.getElementById('Option3').className=="btn btn-success btn-sm btn-block"){
     var myAns=document.getElementById('Option3').innerHTML;
     document.getElementById('Announcement').style.display='Block';
 
@@ -256,7 +256,7 @@ function callCheckOption3(){
 
 function callCheckOption4(){
 
-    if(document.getElementById('Option4').className=="btn btn-primary btn-sm btn-block"){
+    if(document.getElementById('Option4').className=="btn btn-success btn-sm btn-block"){
     var myAns=document.getElementById('Option4').innerHTML;
     document.getElementById('Announcement').style.display='Block';
 
