@@ -1,11 +1,12 @@
 .jumbotron{
     margin-bottom: 5px;
     padding-top: 20px;
-    background-color:#BBDEFB;
+   
+    background-color:#E3F2FD;
 }
 
 #Intro{
-    color: #2196F3;
+    color: #42A5F5;
 }
 
 .col-form-label{
