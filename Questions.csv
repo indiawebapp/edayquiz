@@ -1,31 +1,31 @@
-Code,Question,Option1,Option2,Option3,Option4,Answer
-1,What is the capital of Germany?,Paris,Rome,Athens,Berlin,Berlin
-2,What is the currency of France?,Pound,Franc,Lira,Dollar,Franc
-3,In which country do you see the Northen Lights?,Australia,Germany,Norway,Netherlands,Norway
-4,In which country did the first Olympic games held,Greece,Spain,Portugal,Belgium,Greece
-5,The imaginary line that divides the earth into two equal halves is called,Pole,Access,Equator,Latitude,Equator
-6,The shape of the earth is roughly,Cubicle,Spherical,Cylindrical,Flat,Spherical
-7,The first person to circle navigate the earth was,Christopher Columbus,Aristotle,Ferdinand Magellan,Vasco de Gama,Ferdinand Magellan
-8,Latitudes are imaginary horizontal lines drawn prallel to the,Prime Meridian,Equator,Hemisphere,Poles,Equator
-9,The total number of longitudes is,360,60,300,120,360
-10,The point at which a latitude and longitude intersects is called a,Meridian,Grid,Co-ordinate,Equator,Co-ordinate
-11,The battle of Plassey was fought in,Surat,Calicut,Bengal,Kurukshetra,Bengal
-12,Raja Ram Mohan Roy helped in abolishment of,Sati,Vedas,Brahmo Samaj,Swaraj Movement,Sati
-13,The English East India Company was set up in,1630,1600,1498,1542,1600
-14,The orbit of the Earth is,Circular,Elliptical,Rectangular,Vertical,Elliptical
-15,During summer there is continuous daylight for six months at the,Equator,International Date Line,South Pole,North Pole,North Pole
-16,The instrument that measures and records the relative humidity of air is,Hydrometer,Hygrometer,Lactometer,Barometer,Hygrometer
-17,The shape of our milky way galaxy is�,Circular,Elliptical,Spiral,None of the above,Spiral
-18,The different colours of different stars are due to the variation of,Temperature,Pressure,Density,Radiation from them,Temperature
-19,The fundamental scientific principle in the operation of battery is,Acid-base interaction,Dialysis,Dissociation of electrolytes,Oxidation-reduction,Dissociation of electrolytes
-20,Instrument used to measure the force and velocity of the wind is,Ammeter,Anemometer,Altimeter,Audiometer,Anemometer
-21,Which combition of colour the most convenient during day and night time?,Orange and blue,White and black,Yellow and blue,Red and green,Red and green
-22,Woolen clothes keep the body warm bacause,Wool increases the temperature of the body,Wool is a bad conductor,Wool absorbs radiant heat from outer objects,Wool rejects heat  from outer objects,Wool is a bad conductor
-23,If the length of a simple pendulam is halved then its period of oscillation is,Doubled,Halved,Increase by a factor,Decrease by a factor,Decrease by a factor
-24,Equilibrium is a condition that can�,Never change,Change only if some outside factor changes,Changes only if some internal factor changes,Change only if government policies change,Never change
-25,While catching a ball a player pulls down his hands to lower the",Force,Moment,Impulse,Catching time,Impulse
-26,Geostationary satellite revolves at,Any height,Fixed height,Height which depends upon its mass,Height above poles,Fixed height
-27,When a barometer reading suddenly recedes it indicates that climate,Will be very warm,Will be extreamly stormy,Will remain cold,Incessant rain for at-least 48 hours,Will be extreamly stormy
-28,Asteriods revolve round the Sun between which of the following two planets,Earth and Marse,Marse and Jupiter,Jupiter and Saturn,Saturn and Uranus,Mars and Jupiter
-29,Smog is a general pollutant where,Temperature is high,Temperature is low,air contains excess ammonia,Air contains excess SO2,Air contains excess SO2
-30,In the refrigerator what prodeces the cooling?,The ice which deposits on the freezer,The sudden expansion of the compressed gas,The evaporation of a volatile liquid,None of these,The evaporation of a volatile liquid
+Code,Question,Option1,Option2,Option3,Option4,Answer,,,,,,,
+1,Decibel is the unit used for,Speed of light,Intensity of heat,Intensity of sound,Radio wave frequency,Intensity of sound,,,,,,,
+2,Conversion of chemical energy into electrical energy occurs in,Dynamos,Electric heaters,Battery,Atomic bombs,Battery,,,,,,,
+3,When is ISRO set up,1965,1969,1971,1976,1969,,,,,,,
+4,Which of the following pairs is incorrect,Isohytes- Humidity,Isobars- Pressure,Isohels- Sunshine,Isotherms- Temperature,Isohytes- Humidity,,,,,,,
+5,To an astronaut in a spacecraft the sky appears to be,Blue,White,Dark,Red,Dark,,,,,,,
+6,Metal are good conductor because,They contain free eletrons,The molecules in them are very close to each other,The molecules in them collide very freely,They contain reflecting surface,They contain free eletrons,,,,,,,
+7,Plimsoll line is a reference line in a,Plane,Train,Ship,Submarine,Submarine,,,,,,,
+8,In the process of dialysis used on patients with affected kidneys the phenomenon involved is,Diffision,Absorption,Osmosis,Electrophoresis,Osmosis,,,,,,,    
+9,Danger signals are generally red as red light,It is least bright,Undergoes least deviation,Has lowest velocity,Gives comfort to eye,Undergoes least deviation,,,,,,,
+10,A simple microscope consists of,A short focus convex lens,A long focus convex lens,A short focus concave lens,A long focus concave lens,A short focus convex lens,,,,,,,
+11,Which of the following produces more severe burns,Boiling water,Hot water,Steam,Melting iceberg,Steam,,,,,,,
+12,The sudden fall of atmospheric pressure indicates,Fair weather,Storm,Rain,Cold weather,Storm,,,,,,,
+13,Magnetism in materials is due to,Electrons at rest,Circular motion of electrons,Protons at rest,All neutrons at rest,Circular motion of electrons,,,,,,,
+14,Short-sight in human eye can be corrected by using proper,Convex lens,Concave lens,Cylindrical lens,Bifocal lens,Concave lens,,,,,,,
+15,Who invented optical fibre ?,Samuel Cohen,Narinder Kapany,Percy L. Spencer,T.H. Maimah,Narinder Kapany,,,,,,,
+16,A multimeter is used to measure,Current,Voltage,Resistence,All the Above,All the Above,,,,,,,
+17,Diamonds are glittering and attractive because light incident on them undergoes,Highest refration,Multiple internal reflections,Multiple surface reflections,Hundred percent transmission,Multiple internal reflections,,,,,,,
+18,Which of the following is used to split white light into different colours,Glass slab,Convex lens,Concave lens,Prism,Prism,,,,,,,
+19,Nuclear reactors used to produce electricity are based on,Nuclear fission,Nuclear fusion,Coldfusion,Superconductivity,Nuclear fission,,,,,,,
+20,Submerged objects can be located using,Radar,Sonar,Quasar,Pulsar,Sonar,,,,,,,
+21,Which one of the following instruments is used to study dispersion of light,Microscope,Telescope,Spectrometer,Photometer,Spectrometer,,,,,,,
+22,A fountain pen works on the principle of,Flow of liquids,Capillary action,Bernoullis principle,Viscosity of liquids,Capillary action,,,,,,,
+23,Pycnometer is an instrument used to measure the,Density,Intensity of earthquake,Intensity of solar raidation,High temperatures,Density,,,,,,,
+24,Fibre optics work on the principle of,Scattering of light,Total internal absorption,Total internal reflation,Optical rotation,Total internal reflation,,,,,,,
+25,A decibel is,A musical instrument,The wave length of noise,A musical note,A measure of sound level,A measure of sound level,,,,,,,
+26,Remote-sensing device has an inbuilt source of,X-ray ,Y-ray,Ultraviolet ray ,Infared ray,Infared ray,,,,,,,
+27,What material is used to make electric heater coil,Copper,Iron,Silver,Nichrome,Nichrome,,,,,,,
+28,The standard audible capacity of a healthy human being as per World Organisation is in the range of,45-50 decibels,200-250 decibels,5-10 decibels,2000-2500 decibels,5-10 decibels,,,,,,,
+29,An oil drop spreads over water because,Oil is lighter than water,Oil is more viscous,Oil does not mix with water,Surface tension of oil is much smaller than that of water,Surface tension of oil is much smaller than that of water,,,,,,,
+30,The device which converts AC to DC is,Oscillator,Amplifiter,Rectifier,None of these,Rectifier,,,,,,,
